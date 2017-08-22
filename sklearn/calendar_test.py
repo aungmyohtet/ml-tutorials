@@ -1,4 +1,3 @@
-# Load the Pima Indians diabetes dataset from CSV URL
 import numpy as np
 import urllib.request
 from sklearn import svm
