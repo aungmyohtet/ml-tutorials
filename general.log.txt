@@ -1,0 +1,12 @@
+24/8/2017
+Studied KNN.
+  Links followed
+  1. https://saravananthirumuruganathan.wordpress.com/2010/05/17/a-detailed-introduction-to-k-nearest-neighbor-knn-algorithm/
+
+Studied Naive bayes classifier
+  Links followed
+  1. https://monkeylearn.com/blog/practical-explanation-naive-bayes-classifier/
+
+31/8/2017
+Completed the link (third time read) http://neuralnetworksanddeeplearning.com/chap1.html
+Also read the source code
