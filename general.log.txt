@@ -10,3 +10,7 @@ Studied Naive bayes classifier
 31/8/2017
 Completed the link (third time read) http://neuralnetworksanddeeplearning.com/chap1.html
 Also read the source code
+
+Also read http://neuralnetworksanddeeplearning.com/chap2.html
+Mathematical proof of backpropagation algorithm is not fully understood yet.
+Need more other articles to understand it.
