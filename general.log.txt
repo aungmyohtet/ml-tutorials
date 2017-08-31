@@ -14,3 +14,7 @@ Also read the source code
 Also read http://neuralnetworksanddeeplearning.com/chap2.html
 Mathematical proof of backpropagation algorithm is not fully understood yet.
 Need more other articles to understand it.
+
+read the folliwing link(s)
+https://www.tensorflow.org/programmers_guide/tensors
+https://www.tensorflow.org/programmers_guide/variables
