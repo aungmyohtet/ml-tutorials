@@ -18,3 +18,10 @@ Need more other articles to understand it.
 read the folliwing link(s)
 https://www.tensorflow.org/programmers_guide/tensors
 https://www.tensorflow.org/programmers_guide/variables
+
+1/9/2017
+Read the following links(s)
+https://www.tensorflow.org/programmers_guide/graphs
+https://www.tensorflow.org/programmers_guide/estimators
+https://www.tensorflow.org/programmers_guide/saved_model # skimmed
+https://www.tensorflow.org/programmers_guide/datasets # to read it thoroughly
