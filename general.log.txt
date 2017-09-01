@@ -27,3 +27,4 @@ https://www.tensorflow.org/programmers_guide/saved_model # skimmed
 https://www.tensorflow.org/programmers_guide/datasets # to read it thoroughly
 
 http://jorditorres.org/research-teaching/tensorflow/first-contact-with-tensorflow-book/first-contact-with-tensorflow/ # still reading
+Finished reading http://jorditorres.org/research-teaching/tensorflow/first-contact-with-tensorflow-book/first-contact-with-tensorflow/
