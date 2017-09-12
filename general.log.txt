@@ -10,3 +10,12 @@ Studied Naive bayes classifier
 31/8/2017
 Completed the link (third time read) http://neuralnetworksanddeeplearning.com/chap1.html
 Also read the source code
+
+4/9/2017
+I am close to fully understand backpropagation algorithm.
+pdf in in my books-to-read folder in onedrive
+close to understand raw python implementation of feed-forward network (https://github.com/mnielsen/neural-networks-and-deep-learning)
+
+12/9/2017
+Read the following link(s)
+https://medium.com/@akashg/character-recognition-using-tensorflow-a93dbbdf4af
