@@ -19,3 +19,20 @@ close to understand raw python implementation of feed-forward network (https://g
 12/9/2017
 Read the following link(s)
 https://medium.com/@akashg/character-recognition-using-tensorflow-a93dbbdf4af
+
+19/9/2017
+Read the following link(s)
+http://neuralnetworksanddeeplearning.com/chap3.html#the_cross-entropy_cost_function
+Nots from this link
+  Properties of cost function
+    1. Must be positive
+    2. Approach to zero when target output is close to actual output
+  Some problems of quadratic cost function
+    Learning can be slow when the error is big
+  How to solve
+    Use cross-entropy function
+
+  The cross-entropy is nearly always the better choice
+
+  Softmax layer and softmax function
+  To continue reading the remaining sections
