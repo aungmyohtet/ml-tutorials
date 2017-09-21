@@ -10,7 +10,6 @@ Studied Naive bayes classifier
 31/8/2017
 Completed the link (third time read) http://neuralnetworksanddeeplearning.com/chap1.html
 Also read the source code
-
 Also read http://neuralnetworksanddeeplearning.com/chap2.html
 Mathematical proof of backpropagation algorithm is not fully understood yet.
 Need more other articles to understand it.
@@ -28,3 +27,35 @@ https://www.tensorflow.org/programmers_guide/datasets # to read it thoroughly
 
 http://jorditorres.org/research-teaching/tensorflow/first-contact-with-tensorflow-book/first-contact-with-tensorflow/ # still reading
 Finished reading http://jorditorres.org/research-teaching/tensorflow/first-contact-with-tensorflow-book/first-contact-with-tensorflow/
+
+4/9/2017
+I am close to fully understand backpropagation algorithm.
+pdf in in my books-to-read folder in onedrive
+close to understand raw python implementation of feed-forward network (https://github.com/mnielsen/neural-networks-and-deep-learning)
+
+12/9/2017
+Read the following link(s)
+https://medium.com/@akashg/character-recognition-using-tensorflow-a93dbbdf4af
+
+19/9/2017
+Read the following link(s)
+http://neuralnetworksanddeeplearning.com/chap3.html#the_cross-entropy_cost_function
+Nots from this link
+  Properties of cost function
+    1. Must be positive
+    2. Approach to zero when target output is close to actual output
+  Some problems of quadratic cost function
+    Learning can be slow when the error is big
+  How to solve
+    Use cross-entropy function
+
+  The cross-entropy is nearly always the better choice
+
+  Softmax layer and softmax function
+  To continue reading the remaining sections
+
+  21/9/2017
+  Read the following link(s)
+  K Means clustering, in OpenCV
+  https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_ml/py_kmeans/py_kmeans_understanding/py_kmeans_understanding.html#kmeans-clustering-understanding
+
