@@ -10,6 +10,23 @@ Studied Naive bayes classifier
 31/8/2017
 Completed the link (third time read) http://neuralnetworksanddeeplearning.com/chap1.html
 Also read the source code
+Also read http://neuralnetworksanddeeplearning.com/chap2.html
+Mathematical proof of backpropagation algorithm is not fully understood yet.
+Need more other articles to understand it.
+
+read the folliwing link(s)
+https://www.tensorflow.org/programmers_guide/tensors
+https://www.tensorflow.org/programmers_guide/variables
+
+1/9/2017
+Read the following links(s)
+https://www.tensorflow.org/programmers_guide/graphs
+https://www.tensorflow.org/programmers_guide/estimators
+https://www.tensorflow.org/programmers_guide/saved_model # skimmed
+https://www.tensorflow.org/programmers_guide/datasets # to read it thoroughly
+
+http://jorditorres.org/research-teaching/tensorflow/first-contact-with-tensorflow-book/first-contact-with-tensorflow/ # still reading
+Finished reading http://jorditorres.org/research-teaching/tensorflow/first-contact-with-tensorflow-book/first-contact-with-tensorflow/
 
 4/9/2017
 I am close to fully understand backpropagation algorithm.
@@ -41,3 +58,4 @@ Nots from this link
   Read the following link(s)
   K Means clustering, in OpenCV
   https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_ml/py_kmeans/py_kmeans_understanding/py_kmeans_understanding.html#kmeans-clustering-understanding
+
