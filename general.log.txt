@@ -36,3 +36,8 @@ Nots from this link
 
   Softmax layer and softmax function
   To continue reading the remaining sections
+
+  21/9/2017
+  Read the following link(s)
+  K Means clustering, in OpenCV
+  https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_ml/py_kmeans/py_kmeans_understanding/py_kmeans_understanding.html#kmeans-clustering-understanding
