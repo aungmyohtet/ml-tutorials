@@ -63,3 +63,9 @@ Read the following link(s)
 Read the following link(s)
 http://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_ml/py_knn/py_knn_understanding/py_knn_understanding.html#knn-understanding
 https://stackoverflow.com/questions/32980675/knn-train-in-cv2-with-opencv-3-0
+https://stackoverflow.com/questions/43184887/dll-load-failed-error-when-importing-cv2
+
+23/9/2017
+Read the following link(s)
+https://pythonprogramming.net/k-means-from-scratch-machine-learning-tutorial/
+https://pythonprogramming.net/k-means-from-scratch-2-machine-learning-tutorial/?completed=/k-means-from-scratch-machine-learning-tutorial/
